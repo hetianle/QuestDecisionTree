@@ -9,9 +9,7 @@ tested successfully.
 Before you run the program, you need some libraries intalled in your machine. 
 
 g++
-
 gsl 
-
 cmake
 
 
