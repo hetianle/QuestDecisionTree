@@ -1,0 +1,13 @@
+
+Dependencicy
+
+
+
+Installation
+
+cd ../QuestDecisionTree
+mkdir build
+cd build
+cmake
+make
+./QuestDecisionTree

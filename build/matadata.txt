@@ -1,0 +1,5 @@
+class size,ordered
+is native speaker,categorical
+course instructor,categorical
+course,categorical
+summer or regular,categorical

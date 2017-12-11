@@ -1,0 +1,5 @@
+is native speaker,binary
+course instructor,categorical
+course,categorical
+summer or regular,binary
+class size,ordered

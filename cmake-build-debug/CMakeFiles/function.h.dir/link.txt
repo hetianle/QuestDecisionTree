@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libfunction.h.a  CMakeFiles/function.h.dir/function.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libfunction.h.a
