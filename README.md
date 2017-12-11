@@ -4,21 +4,31 @@ It is a tree-structured classification algorithm that yields a binary decision t
 and other algorithms was conducted by Lim et al (2000).  The project was implemented with c++ language ,trained and 
 tested successfully.
 
-#Dependencicy
+**Dependencicy
+
 Before you run the program, you need some libraries intalled in your machine. 
+
 g++
+
 gsl 
+
 cmake
 
-#Installation
+
+**Installation
 
 'cd /../QuestDecisionTree'
+
 'mkdir build'
+
 'cd build'
+
 'cmake ../'
+
 'make'
+
 './QuestDecisionTree'
 
-#Reference
+**Reference
 
 [Wei-Yin Loh and Yu-Shan Shih.Split selection methods for classification tree](http://web.cs.iastate.edu/~honavar/loh-split.pdf).
